@@ -1,4 +1,4 @@
-# tec-SIMPLE
+# tec-SIMPL
 z80 for Forth in 1k
 
 convert code to tec1 z80
