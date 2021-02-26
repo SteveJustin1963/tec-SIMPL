@@ -1,3 +1,8 @@
+; slowly go thru this and convert to z80
+; add bit-bang or 8250 code
+; use any code from jmon/utils etc if possible
+
+
 ;---------------------------------------------------------------------------
 ; SIMPL - a very small Forth Inspired Extensible Language
 ; Implementing the Initialisation, TextTead, TextEval and UART routines in MSP430 assembly language
