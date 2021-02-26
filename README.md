@@ -1,5 +1,5 @@
 # tec-SIMPL
-z80 for Forth in 1k
+z80 Forth in 1k of code
 
 convert code to tec1 z80
 
