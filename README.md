@@ -1,7 +1,8 @@
 # tec-SIMPL
 z80 Forth in 1k of code
 
-convert code to tec1 z80
+convert code to tec1 z80...well we now have MINT
+
 
 ## Ref
 - https://gist.github.com/monsonite	
